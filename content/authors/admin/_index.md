@@ -3,39 +3,30 @@ role: HPC/ML specialist and consultant
 bio: My research interests include graph theory, machine learning, deep
   learning, and high performance computing
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - GraphTheory
+  - MachineLearning
+  - HighPerformanceComputing
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jtpatchett
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/joe-patchett/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: New Jersey Institute of Technology
+    url: https://www.njit.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Computer Science
+      institution: New Jersey Institute of Technology
+      year: ""
+    - course: BS in Materials Science and Engineering
+      institution: The Pennsylvania State University
+      year: ""
 superuser: true
 highlight_name: true
 title: Joseph Patchett
