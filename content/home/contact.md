@@ -26,21 +26,17 @@ content:
 
   # Contact details (edit or remove options as required)
   email: jt + last name @ gmail dot com
-  phone: 888 888 88 88
   address:
     region: NJ
     country: United States
     country_code: US
-  appointment_url: 'https://calendly.com'
+  appointment_url: 'https://calendly.com/jtpatchett'
   contact_links:
     - icon: linkedin
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      name: Connect with me
+      link: 'https://www.linkedin.com/in/joe-patchett/'
+
 
 design:
   columns: '2'
