@@ -47,9 +47,9 @@ experience:
     description:  |2-
         Responsibilities include:
           
-          * Managing Support Projects
-          * HR Digital Transformations
-          * Development of Recommender Systems for internal use
+        * Managing Support Projects
+        * HR Digital Transformations
+        * Development of Recommender Systems for internal use
           
   - title: Associate
     company: Infosys Limited
